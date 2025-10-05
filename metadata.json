@@ -1,0 +1,5 @@
+{
+  "name": "BloomSync",
+  "description": "A global dashboard to predict and monitor mismatches between flowering events and pollinator activity, leveraging simulated climate and satellite data to ensure ecosystem health and food security.",
+  "requestFramePermissions": []
+}
